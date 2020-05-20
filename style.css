@@ -33,7 +33,7 @@
 	.title{
 		top:0;
 		right: 0;
-		background-color: #A0522D;
+		background-color: #fffff;
 		border: 1px solid black;
 		position: absolute;
     text-align: center;
@@ -45,7 +45,7 @@
    .text{
     	margin: 40px 10px 10px 10px;
     	font-size: 16px;
-    	font-family: Trebuchet MS;
+    	
     }
 
     .sec1{
@@ -53,7 +53,7 @@
       
     	border : 1px solid black;
     	position: relative;
-      background-color: #FFDAB9;
+      background-color: lightblue;
     }
     
 	#header{
