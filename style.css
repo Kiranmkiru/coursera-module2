@@ -45,8 +45,7 @@
    .text{
     	margin: 40px 10px 10px 10px;
     	font-size: 16px;
-	   background-color:#ffff
-    	
+    	font-family: Trebuchet MS;
     }
 
     .sec1{
@@ -54,7 +53,7 @@
       
     	border : 1px solid black;
     	position: relative;
-      background-color: blue;
+      background-color:darkolivegreen;
     }
     
 	#header{
